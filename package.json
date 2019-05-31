@@ -1,0 +1,11 @@
+{
+  "name": "myrepl",
+  "version": "1.0.0",
+  "description": "Simply require a module into repl and mount it to 'm' in repl to play with it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yshing",
+  "license": "ISC"
+}
